@@ -1,4 +1,4 @@
-package com.example.scrapchat.repository;
+package com.example.scrapchat.login.repository;
 
 import com.example.scrapchat.login.entity.User;
 import lombok.extern.java.Log;
