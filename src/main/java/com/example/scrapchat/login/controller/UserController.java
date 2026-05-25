@@ -9,6 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/v0")
+@CrossOrigin(originPatterns = "http://localhost:5173")
 @Log
 public class UserController {
 
