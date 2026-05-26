@@ -1,4 +1,4 @@
-package com.example.scrapchat.login.entity;
+package com.example.scrapchat.user.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

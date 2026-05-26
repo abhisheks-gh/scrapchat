@@ -1,6 +1,6 @@
-package com.example.scrapchat.login.repository;
+package com.example.scrapchat.user.repository;
 
-import com.example.scrapchat.login.entity.User;
+import com.example.scrapchat.user.entity.User;
 import lombok.extern.java.Log;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;

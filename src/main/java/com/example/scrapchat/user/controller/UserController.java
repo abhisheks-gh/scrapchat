@@ -1,7 +1,7 @@
-package com.example.scrapchat.login.controller;
+package com.example.scrapchat.user.controller;
 
-import com.example.scrapchat.login.entity.User;
-import com.example.scrapchat.login.service.UserServiceImpl;
+import com.example.scrapchat.user.entity.User;
+import com.example.scrapchat.user.service.UserServiceImpl;
 import lombok.extern.java.Log;
 import org.springframework.web.bind.annotation.*;
 

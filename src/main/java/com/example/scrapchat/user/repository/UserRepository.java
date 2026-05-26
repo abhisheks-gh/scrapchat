@@ -1,6 +1,6 @@
-package com.example.scrapchat.login.repository;
+package com.example.scrapchat.user.repository;
 
-import com.example.scrapchat.login.entity.User;
+import com.example.scrapchat.user.entity.User;
 
 import java.util.List;
 

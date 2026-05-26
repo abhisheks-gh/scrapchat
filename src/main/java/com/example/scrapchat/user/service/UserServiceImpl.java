@@ -1,7 +1,7 @@
-package com.example.scrapchat.login.service;
+package com.example.scrapchat.user.service;
 
-import com.example.scrapchat.login.entity.User;
-import com.example.scrapchat.login.repository.UserRepositoryImpl;
+import com.example.scrapchat.user.entity.User;
+import com.example.scrapchat.user.repository.UserRepositoryImpl;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
